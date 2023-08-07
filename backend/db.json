@@ -1,0 +1,27 @@
+{
+  "salasDisponiveis": [
+    {
+      "id": 1,
+      "nome": "Sala 1",
+      "capacidade": "Sala 1",
+      "recursos": "Projetor",
+      "data": "2022-01-01"
+    },
+    {
+      "id": 3,
+      "nome": "Sala 3",
+      "capacidade": "Sala 3",
+      "recursos": "Projetor e Microfone",
+      "data": "2022-01-01"
+    }
+  ],
+  "salasAgendadas": [
+    {
+      "id": 2,
+      "nome": "Sala 2",
+      "capacidade": "Sala 2",
+      "recursos": "Projetor",
+      "data": "2022-02-02"
+    }
+  ]
+}
